@@ -1,0 +1,112 @@
+body
+{
+    background-image: url(Background.jpg);
+    background-color: black;
+    background-attachment: scroll;
+    background-size: cover;
+}
+h1
+{
+    color:bisque;
+    text-align: center;
+    font-size: 7vw;
+    background-color:#2b2e4a;
+    opacity: 0.7;
+    height: 12vw;
+    margin: 2vw;;
+    border: 0;
+    padding:0;
+}
+h3
+{
+    background-color: antiquewhite;
+    height: auto;
+    margin:0;
+    text-align: center;
+    font-size:2vw;
+}
+h4
+{
+    color:darkred;
+    font-size:2.5vw;
+    font-style:italic;
+    text-align: center;
+    padding:0;
+    margin:0;
+}
+
+#title
+{
+    text-decoration: none;
+    color:#e84545;
+    font-style: italic;
+    position: relative;
+    top:2vw;
+}
+button
+{
+    font-size: 1.5vw;
+    background-color:floralwhite;
+    color:bisque;
+    cursor: pointer;
+}
+
+.welcome_mess
+{
+    background-color:#2b2e4a;
+    opacity: .9;
+    float:left;
+    border-style: outset;
+    padding:1vw;
+    width:35%;
+    height:20vw;
+    margin-left:3vw;
+    border-radius: 45px;
+}
+.message
+{
+    font-size: 2vw;
+    color:white;
+    margin-left: 10px;
+    font-style: italic;
+}
+.log
+{
+   float:right;
+    width: 50%;
+    background-color:#2b2e4a;
+    position:relative;
+    border-radius: 100px;
+    border-style:outset;
+    height:20vw;
+    top:2vw;
+}
+
+.innerlog
+{
+    text-align: center;
+    width: 50%;
+    margin:auto;
+    border-style: none;
+    position: relative;
+    top:10%;
+    height:80%;
+    opacity: .9;
+}
+
+.input
+{
+    width:90%;
+    height: 3vw;
+    border-radius:30px; 
+    border-style: outset;
+    text-align: center;   
+    font-size: 1vw;
+}
+.lab
+{
+    color:white;
+    font-size:2vw;
+}
+
+ 

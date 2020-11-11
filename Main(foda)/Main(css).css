@@ -1,0 +1,162 @@
+body
+{
+    background-image: url(Background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1
+{
+   color:bisque;
+    text-align: center;
+    font-size: 7vw;
+    background-color:#2b2e4a;
+    opacity: 0.7;
+    height: 12vw;
+    margin: 2vw;;
+    border: 0;
+    padding:0;
+    
+}
+h2
+{
+    background-color: beige; 
+    font-size:1.5vw;
+    margin: 0;
+    border: 0;
+    padding:0;
+    text-align: center;
+}
+h3
+{
+    background-color:#2b2e4a; 
+    font-size:1vw;
+    color:white;
+    height: 1.1vw;
+    margin: 0;
+    border: 0;
+    padding:0;
+    text-align: center;
+}
+
+#main
+{
+    transition: .5s;
+}
+
+#title
+{
+     text-decoration: none;
+    color:#e84545;
+    font-style: italic;
+    position: relative;
+    top:2vw;
+}
+#fady
+{
+    width:40%;
+    height:10%;
+    margin: auto;
+    background-color: black;
+    border-style: outset;
+    border-color:azure;
+}
+#fady img
+{
+    width:100%;
+    height:100%;
+}
+
+#ch
+{
+    position: relative;
+    top:4vw;
+    left:3vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5vw;
+    width: 59.5%;
+    height:90%;
+    padding:0;
+    display:grid;
+    grid-template-columns: 25% 25% 25%;
+    grid-template-rows:  20vw 20vw 20vw 20vw ;
+    grid-gap: 4vw;
+}
+
+.choose
+{
+    border-style: outset;
+    height:100%;
+}
+
+#pic1
+{
+    grid-row-start: 1;
+    grid-column-start: 1;   
+}
+#pic2
+{
+    grid-row-start: 1;
+    grid-column-start: 2;   
+
+}
+#pic3
+{
+    grid-row-start: 1;
+    grid-column-start: 3;   
+}
+#pic4
+{
+    grid-row-start: 2;
+    grid-column-start: 1;
+}
+#pic5
+{
+    grid-row-start: 2;
+    grid-column-start: 2;
+}
+#pic6
+{
+    grid-row-start: 2;
+    grid-column-start: 3;
+}
+#pic7
+{
+    grid-row-start: 3;
+    grid-column-start: 1;   
+}
+#pic8
+{
+    grid-row-start: 3;
+    grid-column-start: 2;   
+
+}
+#pic9
+{
+    grid-row-start: 3;
+    grid-column-start: 3;   
+}
+#pic10
+{
+    grid-row-start: 4;
+    grid-column-start: 1;
+}
+#pic11
+{
+    grid-row-start: 4;
+    grid-column-start: 2;
+}
+#pic12
+{
+    grid-row-start: 4;
+    grid-column-start: 3;
+}
+
+img
+{
+    width:100%;
+    height:95%;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+}
