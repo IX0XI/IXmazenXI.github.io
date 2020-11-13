@@ -1,0 +1,95 @@
+body
+{
+    
+    background-image: url(Background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1
+{
+   color:bisque;
+    text-align: center;
+    font-size: 7vw;
+    background-color:#2b2e4a;
+    opacity: 0.7;
+    height: 12vw;
+    margin: 2vw;;
+    border: 0;
+    padding:0;
+    
+}
+h2
+{
+    background-color: black; 
+    color:white;
+    font-style: italic;
+    font-size:2vw;
+    font-family: cursive;
+    margin: 0;
+    border: 0;
+    padding:0;
+    text-align: center;
+}
+h3
+{
+    background-color:#2b2e4a; 
+    font-size:1vw;
+    color:white;
+    height: 1.1vw;
+    margin: 0;
+    border: 0;
+    padding:0;
+    text-align: center;
+}
+
+#main
+{
+    transition: .5s;
+}
+
+#title
+{
+     text-decoration: none;
+    color:#e84545;
+    font-style: italic;
+    position: relative;
+    top:2vw;
+}
+
+.inner
+{
+    background-color: #2b2e4a; 
+    height: 40vw;
+    width:90%;
+    border-bottom-left-radius: 5vw;
+    border-bottom-right-radius: 5vw;
+    margin:auto;
+    margin-top:5vw;
+    margin-bottom: 10vw;
+}
+
+img
+{
+    float:left;
+    width:30%;
+    height:100%;
+    margin:0;
+    margin-top:2vw;
+    margin-left:2vw;
+    border-radius: 30%;
+    padding: 0;
+}
+
+p
+{
+    width: 60%;
+    height:100%;
+    float:right;
+    position: relative;
+    right:1.5vw;
+    top:2vw;
+    color:white;
+    font-size:1.5vw;
+    
+}
+
