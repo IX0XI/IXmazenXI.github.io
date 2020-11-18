@@ -151,6 +151,26 @@ h3
     grid-row-start: 4;
     grid-column-start: 3;
 }
+#pic13
+{
+    grid-row-start: 5;
+    grid-column-start: 1;
+}
+#pic14
+{
+    grid-row-start: 5;
+    grid-column-start: 2;
+}
+#pic15
+{
+    grid-row-start: 5;
+    grid-column-start: 3;
+}
+#pic16
+{
+    grid-row-start: 6;
+    grid-column-start: 2;
+}
 
 img
 {
