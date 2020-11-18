@@ -176,6 +176,11 @@ h3
     grid-row-start: 6;
     grid-column-start: 2;
 }
+#pic18
+{
+    grid-row-start: 6;
+    grid-column-start: 3;
+}
 
 img
 {
