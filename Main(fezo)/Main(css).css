@@ -79,7 +79,7 @@ h3
     padding:0;
     display:grid;
     grid-template-columns: 25% 25% 25%;
-    grid-template-rows:  20vw 20vw 20vw 20vw ;
+    grid-template-rows:  20vw 20vw 20vw 20vw 20vw 20vw;
     grid-gap: 4vw;
 }
 
