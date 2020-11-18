@@ -169,6 +169,11 @@ h3
 #pic16
 {
     grid-row-start: 6;
+    grid-column-start: 1;
+}
+#pic17
+{
+    grid-row-start: 6;
     grid-column-start: 2;
 }
 
