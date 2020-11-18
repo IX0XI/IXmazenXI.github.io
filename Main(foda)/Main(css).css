@@ -123,34 +123,9 @@ h3
 #pic7
 {
     grid-row-start: 3;
-    grid-column-start: 1;   
-}
-#pic8
-{
-    grid-row-start: 3;
     grid-column-start: 2;   
+}
 
-}
-#pic9
-{
-    grid-row-start: 3;
-    grid-column-start: 3;   
-}
-#pic10
-{
-    grid-row-start: 4;
-    grid-column-start: 1;
-}
-#pic11
-{
-    grid-row-start: 4;
-    grid-column-start: 2;
-}
-#pic12
-{
-    grid-row-start: 4;
-    grid-column-start: 3;
-}
 
 img
 {
