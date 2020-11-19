@@ -79,7 +79,7 @@ h3
     padding:0;
     display:grid;
     grid-template-columns: 25% 25% 25%;
-    grid-template-rows:  20vw 20vw 20vw 20vw 20vw 20vw;
+    grid-template-rows:  20vw 20vw 20vw 20vw 20vw 20vw 20vw;
     grid-gap: 4vw;
 }
 
@@ -180,6 +180,11 @@ h3
 {
     grid-row-start: 6;
     grid-column-start: 3;
+}
+#pic19
+{
+    grid-row-start: 7;
+    grid-column-start: 2;
 }
 
 img
