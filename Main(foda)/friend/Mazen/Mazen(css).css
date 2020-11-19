@@ -1,9 +1,9 @@
 body
 {
+    
     background-image: url(Background.jpg);
     background-attachment: fixed;
     background-size: cover;
-    height:100%;
 }
 h1
 {
@@ -67,22 +67,28 @@ h3
     margin-top:5vw;
     margin-bottom: 10vw;
 }
-#slides
+
+img
 {
     float:left;
     width:30%;
-    height:80%;
+    height:100%;
+    margin:0;
     margin-top:2vw;
     margin-left:2vw;
     border-radius: 30%;
     padding: 0;
 }
-img
+
+p
 {
-    width:100%;
+    width: 60%;
     height:100%;
-    border-radius: 25%;
+    margin:auto;
     position: relative;
-    top:1vw;
+    top:2vw;
+    color:white;
+    font-size:1.5vw;
+    
 }
 
